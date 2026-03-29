@@ -46,11 +46,7 @@ I'm a passionate web developer helping businesses and startups craft fast, scala
 ---
 
 ## 📫 Connect With Me
-
-- 🌐 Portfolio: https://your-website.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 📧 Email: your@email.com  
-
+ 
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-torvi-1a6379327 
+- 📧 Email: sh.torvi123@gmail.com
 ---
-
-⭐️ From [YourName](https://github.com/yourusername)
