@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Shviam Torvi 👋</h1>
 
-<!--
-**Shivamtorvi/Shivamtorvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full-Stack Web Developer | Turning ideas into powerful digital experiences</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### 🎨 Animation
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+
+### ⚙ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge)
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+
+---
+
+## 🌟 What I Do
+
+- ✅ Create responsive, mobile-first websites & apps  
+- ✅ Build APIs & backend systems  
+- ✅ Integrate smooth animations & motion  
+- ✅ Optimize performance & scalability  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://your-website.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourname  
+- 📧 Email: your@email.com  
+
+---
+
+⭐️ From [YourName](https://github.com/yourusername)
